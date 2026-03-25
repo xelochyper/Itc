@@ -39,10 +39,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    {
-  "display": "fullscreen"
-    }
-
     // Audio Control
     let isMusicPlaying = true;
     soundToggle.addEventListener('click', () => {
